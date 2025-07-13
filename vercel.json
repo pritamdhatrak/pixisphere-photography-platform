@@ -1,11 +1,5 @@
 ﻿{
   "buildCommand": "npm run build",
   "outputDirectory": ".next",
-  "framework": "nextjs",
-  "rewrites": [
-    {
-      "source": "/photographer/:id",
-      "destination": "/photographer/[id]"
-    }
-  ]
+  "framework": "nextjs"
 }
