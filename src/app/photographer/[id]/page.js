@@ -24,8 +24,6 @@ export default function PhotographerProfile() {
   const fetchPhotographer = async () => {
     try {
       setLoading(true);
-      // Simulate loading delay
-      await new Promise(resolve => setTimeout(resolve, 300));
       const photographerData = getPhotographerById(params.id);
       setPhotographer(photographerData);
     } catch (error) {
