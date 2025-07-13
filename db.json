@@ -1,0 +1,122 @@
+﻿{
+  "photographers": [
+    {
+      "id": 1,
+      "name": "Ravi Studio",
+      "location": "Bengaluru",
+      "price": 8500,
+      "rating": 4.6,
+      "styles": ["Outdoor", "Studio"],
+      "tags": ["Candid", "Maternity"],
+      "bio": "Hey there! I'm Ravi and I've been doing photography for about 8 years now. Started with my dad's old camera and here we are! Love capturing those special moments.",
+      "profilePic": "/images/card-nature1.jpg",
+      "portfolio": ["/images/india-nature1.jpg", "/images/india-nature2.jpg", "/images/india-nature3.jpg"],
+      "reviews": [
+        {
+          "name": "Ananya",
+          "rating": 5,
+          "comment": "Ravi was amazing! He made us feel so comfortable and the photos turned out better than we expected. Definitely booking again!",
+          "date": "2024-12-15"
+        },
+        {
+          "name": "Karthik",
+          "rating": 4,
+          "comment": "Good work, though he was running a bit late. But the final photos were worth the wait!",
+          "date": "2024-11-20"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Lens Queen Photography",
+      "location": "Delhi",
+      "price": 12500,
+      "rating": 4.2,
+      "styles": ["Candid", "Indoor"],
+      "tags": ["Newborn", "Birthday"],
+      "bio": "Hi! I'm Priyanka, the 'Lens Queen' :) Been shooting for 5+ years, specializing in kids and family portraits. Your little ones are safe with me!",
+      "profilePic": "/images/card-nature2.jpg",
+      "portfolio": ["/images/india-nature6.jpg", "/images/india-nature1.jpg", "https://picsum.photos/600/400?random=501"],
+      "reviews": [
+        {
+          "name": "Priya",
+          "rating": 4,
+          "comment": "She's really good with kids! My 2-year-old was being cranky but she handled it like a pro.",
+          "date": "2024-10-01"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Click Factory",
+      "location": "Mumbai",
+      "price": 15000,
+      "rating": 4.8,
+      "styles": ["Studio", "Outdoor", "Traditional"],
+      "tags": ["Wedding", "Pre-wedding"],
+      "bio": "We're a team of 3 photographers who love what we do. Been in the wedding game for 6 years. We travel anywhere in Maharashtra!",
+      "profilePic": "/images/card-nature3.jpg",
+      "portfolio": ["/images/india-nature2.jpg", "/images/india-nature3.jpg", "/images/india-nature6.jpg"],
+      "reviews": [
+        {
+          "name": "Rahul & Sneha",
+          "rating": 5,
+          "comment": "These guys are AMAZING! They captured every emotion of our wedding day. Money well spent!",
+          "date": "2025-01-22"
+        },
+        {
+          "name": "Amit",
+          "rating": 5,
+          "comment": "Professional team, on time, great equipment. Highly recommend!",
+          "date": "2024-12-10"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Moments by Neha",
+      "location": "Bengaluru",
+      "price": 9000,
+      "rating": 4.3,
+      "styles": ["Outdoor", "Candid"],
+      "tags": ["Maternity", "Couple"],
+      "bio": "Photography is my passion! I love natural light and candid moments. Based in Bangalore but happy to travel. Let's create some magic together!",
+      "profilePic": "/images/card-nature4.jpg",
+      "portfolio": ["/images/india-nature1.jpg", "/images/india-nature6.jpg", "https://picsum.photos/600/400?random=502"],
+      "reviews": [
+        {
+          "name": "Sneha",
+          "rating": 4.5,
+          "comment": "Neha has such a good eye! She suggested some poses I never thought of. Really happy with the maternity shoot.",
+          "date": "2024-11-05"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Snapshot Studio",
+      "location": "Hyderabad",
+      "price": 6500,
+      "rating": 3.9,
+      "styles": ["Studio"],
+      "tags": ["Birthday", "Family"],
+      "bio": "Small studio, big dreams! We offer affordable photography for families. Not the fanciest setup but we put our heart into every shot.",
+      "profilePic": "/images/card-nature5.jpg",
+      "portfolio": ["/images/india-nature3.jpg", "/images/india-nature2.jpg", "https://picsum.photos/600/400?random=503"],
+      "reviews": [
+        {
+          "name": "Vikram",
+          "rating": 4,
+          "comment": "Good value for money. The studio is basic but they do good work. Happy with our family photos.",
+          "date": "2024-09-10"
+        },
+        {
+          "name": "Lakshmi",
+          "rating": 3,
+          "comment": "Photos were okay, but the studio could use some updating. Still, they were nice people to work with.",
+          "date": "2024-08-15"
+        }
+      ]
+    }
+  ]
+}
