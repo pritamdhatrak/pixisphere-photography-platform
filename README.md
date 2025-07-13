@@ -34,9 +34,5 @@ A photography platform that connects customers with photographers for special oc
 - Node.js (v16 or higher)
 - npm or yarn
 
-### Installation
 
-1. Clone the repository:
-```bash
-git clone <repository-url>
-cd pixisphere-frontend
+
